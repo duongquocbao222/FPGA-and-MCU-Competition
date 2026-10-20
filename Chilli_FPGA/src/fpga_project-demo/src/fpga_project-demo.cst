@@ -1,0 +1,19 @@
+// Cấu hình Clock gốc 27MHz (Pin 4)
+IO_LOC "clk_27m" 4;
+IO_PORT "clk_27m" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+
+// Cấu hình Nút nhấn 1 (KEY1 - Pin 35)
+IO_LOC "btn1" 35;
+IO_PORT "btn1" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+
+// Cấu hình Nút nhấn 2 (KEY2 - Pin 36)
+IO_LOC "btn2" 36;
+IO_PORT "btn2" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+
+// Cấu hình Đèn LED 1 (D3 - Pin 27)
+IO_LOC "led" 27;
+IO_PORT "led" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+
+// Cấu hình UART TX (Nối vào U2U_RXD - Pin 34)
+IO_LOC "uart_tx" 34;
+IO_PORT "uart_tx" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;

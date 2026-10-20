@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_system" Register="34" Alu="15" Lut="47" T_Register="138(34)" T_Alu="30(15)" T_Lut="269(47)">
+ <SubModule name="sys_pll_inst"/>
+ <SubModule name="btn1_inst" Register="24" Lut="42" T_Register="24(24)" T_Lut="42(42)"/>
+ <SubModule name="btn2_inst" Register="24" Lut="42" T_Register="24(24)" T_Lut="42(42)"/>
+ <SubModule name="pwm_inst" Register="32" Alu="15" Lut="103" T_Register="32(32)" T_Alu="15(15)" T_Lut="103(103)"/>
+ <SubModule name="uart_tx_inst" Register="24" Lut="35" T_Register="24(24)" T_Lut="35(35)"/>
+</Module>

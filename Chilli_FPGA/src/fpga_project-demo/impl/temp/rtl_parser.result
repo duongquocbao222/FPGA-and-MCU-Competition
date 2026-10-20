@@ -1,0 +1,52 @@
+[
+ {
+  "InstFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/top_system.v",
+  "InstLine" : 3,
+  "InstName" : "top_system",
+  "ModuleFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/top_system.v",
+  "ModuleLine" : 3,
+  "ModuleName" : "top_system",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/top_system.v",
+    "InstLine" : 15,
+    "InstName" : "sys_pll_inst",
+    "ModuleFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/gowin_pllo/gowin_pllo.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_PLLO"
+   },
+   {
+    "InstFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/top_system.v",
+    "InstLine" : 36,
+    "InstName" : "btn1_inst",
+    "ModuleFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/debounce.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "debounce"
+   },
+   {
+    "InstFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/top_system.v",
+    "InstLine" : 41,
+    "InstName" : "btn2_inst",
+    "ModuleFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/debounce.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "debounce"
+   },
+   {
+    "InstFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/top_system.v",
+    "InstLine" : 99,
+    "InstName" : "pwm_inst",
+    "ModuleFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/pwm_led.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "pwm_led"
+   },
+   {
+    "InstFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/top_system.v",
+    "InstLine" : 111,
+    "InstName" : "uart_tx_inst",
+    "ModuleFile" : "C:/Users/USER/OneDrive/Documents/Desktop/FPGA/Src/fpga_project-demo/src/uart_tx_byte.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx_byte"
+   }
+  ]
+ }
+]

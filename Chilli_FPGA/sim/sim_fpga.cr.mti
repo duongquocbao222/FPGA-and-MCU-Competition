@@ -1,0 +1,43 @@
+D:/BachKhoa/FPGA_sim/uart_tx_byte.v {1 {vlog -work work D:/BachKhoa/FPGA_sim/uart_tx_byte.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_tx_byte
+
+Top level modules:
+	uart_tx_byte
+
+} {} {}} D:/BachKhoa/FPGA_sim/gowin_pllo.v {1 {vlog -work work D:/BachKhoa/FPGA_sim/gowin_pllo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Gowin_PLLO
+
+Top level modules:
+	Gowin_PLLO
+
+} {} {}} D:/BachKhoa/FPGA_sim/top_system.v {1 {vlog -work work D:/BachKhoa/FPGA_sim/top_system.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top_system
+
+Top level modules:
+	top_system
+
+} {} {}} D:/BachKhoa/FPGA_sim/tb_top_system.v {1 {vlog -work work D:/BachKhoa/FPGA_sim/tb_top_system.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top_system_tb
+
+Top level modules:
+	top_system_tb
+
+} {} {}} D:/BachKhoa/FPGA_sim/pwm_led.v {1 {vlog -work work D:/BachKhoa/FPGA_sim/pwm_led.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pwm_led
+
+Top level modules:
+	pwm_led
+
+} {} {}} D:/BachKhoa/FPGA_sim/debounce.v {1 {vlog -work work D:/BachKhoa/FPGA_sim/debounce.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module debounce
+
+Top level modules:
+	debounce
+
+} {} {}}

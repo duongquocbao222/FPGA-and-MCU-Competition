@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1N-1P5C" package="QFN48XF" speed="7" partNumber="GW1N-UV1P5QN48XFC7/I6"/>
+    <FileList>
+        <File path="C:\Users\USER\OneDrive\Documents\Desktop\FPGA\Src\fpga_project-demo\src\debounce.v" type="verilog"/>
+        <File path="C:\Users\USER\OneDrive\Documents\Desktop\FPGA\Src\fpga_project-demo\src\gowin_pllo\gowin_pllo.v" type="verilog"/>
+        <File path="C:\Users\USER\OneDrive\Documents\Desktop\FPGA\Src\fpga_project-demo\src\pwm_led.v" type="verilog"/>
+        <File path="C:\Users\USER\OneDrive\Documents\Desktop\FPGA\Src\fpga_project-demo\src\top_system.v" type="verilog"/>
+        <File path="C:\Users\USER\OneDrive\Documents\Desktop\FPGA\Src\fpga_project-demo\src\uart_tx_byte.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="50.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\USER\OneDrive\Documents\Desktop\FPGA\Src\fpga_project-demo\impl\gwsynthesis\fpga_project-demo.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="vcc" value="3.3"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

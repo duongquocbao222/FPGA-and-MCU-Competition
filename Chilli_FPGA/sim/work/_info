@@ -1,0 +1,120 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vdebounce
+Z1 !s100 Ok72:SAO76JTJX0MI@KnS3
+Z2 IL8h>k=PZoZ<z:U;0=hK`N1
+Z3 VAQ3L1gYB82@fJHdHB?jSW3
+Z4 dD:\BachKhoa\FPGA_sim
+Z5 w1785311462
+Z6 8D:/BachKhoa/FPGA_sim/debounce.v
+Z7 FD:/BachKhoa/FPGA_sim/debounce.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/BachKhoa/FPGA_sim/debounce.v|
+Z10 o-work work -O0
+Z11 !s108 1787229373.717000
+Z12 !s107 D:/BachKhoa/FPGA_sim/debounce.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vGowin_PLLO
+Z13 !s100 dQa82NBf^nbmBeQMncbnH2
+Z14 IJNA08LUjHiQJ`9C]AWi6a3
+Z15 Vn2MoYUcbQ<HEA]5PnbPzc2
+R4
+Z16 w1785310753
+Z17 8D:/BachKhoa/FPGA_sim/gowin_pllo.v
+Z18 FD:/BachKhoa/FPGA_sim/gowin_pllo.v
+L0 10
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/BachKhoa/FPGA_sim/gowin_pllo.v|
+R10
+Z20 n@gowin_@p@l@l@o
+Z21 !s108 1787229373.748000
+Z22 !s107 D:/BachKhoa/FPGA_sim/gowin_pllo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpwm_led
+Z23 !s100 bi>@?3JTTb06LaBc^^zIA3
+Z24 IaGK;2lg<bdH=3RGGkXHCb1
+Z25 V5l2ZcJl0^^AY^V9@Q:GL;0
+R4
+Z26 w1784791895
+Z27 8D:/BachKhoa/FPGA_sim/pwm_led.v
+Z28 FD:/BachKhoa/FPGA_sim/pwm_led.v
+L0 1
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|D:/BachKhoa/FPGA_sim/pwm_led.v|
+R10
+Z30 !s108 1787229373.795000
+Z31 !s107 D:/BachKhoa/FPGA_sim/pwm_led.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop_system
+Z32 !s100 iggFWNA`V[dImK=e;]0F40
+Z33 I==[CnQ=LJ`QTYh9Gli;Ek0
+Z34 V0j=n0Ddh7M4R_Do:ozQQj0
+R4
+Z35 w1787198518
+Z36 8D:/BachKhoa/FPGA_sim/top_system.v
+Z37 FD:/BachKhoa/FPGA_sim/top_system.v
+L0 3
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|D:/BachKhoa/FPGA_sim/top_system.v|
+R10
+!i10b 1
+!s85 0
+Z39 !s108 1787229373.873000
+Z40 !s107 D:/BachKhoa/FPGA_sim/top_system.v|
+!s101 -O0
+vtop_system_tb
+Z41 !s100 [VE_EHHn^hX3Ld?DaIA3?0
+Z42 IOkK6AVc`dF;[H:mHFM]hN3
+Z43 V@b637gojBYS[BV2E0@^6D0
+R4
+Z44 w1787224512
+Z45 8D:/BachKhoa/FPGA_sim/tb_top_system.v
+Z46 FD:/BachKhoa/FPGA_sim/tb_top_system.v
+L0 3
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|D:/BachKhoa/FPGA_sim/tb_top_system.v|
+R10
+Z48 !s108 1787229373.827000
+Z49 !s107 D:/BachKhoa/FPGA_sim/tb_top_system.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_tx_byte
+!i10b 1
+Z50 !s100 [J5KC`UR^KCaJ=:Uo2@ff2
+Z51 IOTROHM1SAS=T`zXcC6cgE1
+Z52 VzN6X5HE]n7Q=Y?R<X@Li?3
+R4
+Z53 w1786970511
+Z54 8D:/BachKhoa/FPGA_sim/uart_tx_byte.v
+Z55 FD:/BachKhoa/FPGA_sim/uart_tx_byte.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1787229373.921000
+!s107 D:/BachKhoa/FPGA_sim/uart_tx_byte.v|
+Z56 !s90 -reportprogress|300|-work|work|D:/BachKhoa/FPGA_sim/uart_tx_byte.v|
+!s101 -O0
+R10
